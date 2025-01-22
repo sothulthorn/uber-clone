@@ -18,6 +18,7 @@
   "dependencies": {
     "@clerk/clerk-expo": "^2.6.16",
     "@expo/vector-icons": "^14.0.2",
+    "@neondatabase/serverless": "^0.10.4",
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "^7.0.14",
     "expo": "~52.0.26",
@@ -35,6 +36,7 @@
     "expo-system-ui": "~4.0.7",
     "expo-web-browser": "~14.0.2",
     "nativewind": "^4.1.23",
+    "pgshims": "github:neondatabase/serverless",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.6",
